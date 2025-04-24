@@ -119,10 +119,21 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://gmail.com/satharakanilmantha1@gmail.com) - satharakanilmantha1@gmail.com
+<p align="left">
+  <a href="mailto:satharakanilmantha1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/SatharakaNilmantha/ProConnect_WebRTC-online-meeting-platform">
+    <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Project">
+  </a>
+</p>
 
-Project Link: [https://github.com/SatharakaNilmantha/ProConnect_WebRTC-online-meeting-platform](https://github.com/SatharakaNilmantha/ProConnect_WebRTC-online-meeting-platform.git)
-
+**Satharaka Nilmantha**  
+📫 Reach me at: satharakanilmantha1@gmail.com  
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 ## 🙏 Acknowledgments
 
 - [WebRTC](https://webrtc.org/) for the amazing real-time communication technology
