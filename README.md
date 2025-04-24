@@ -29,7 +29,7 @@ Follow these steps to install and set up the project:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/SatharakaNilmantha/ProConnect_WebRTC-online-meeting-platform.git
-   cd webrtc-video-chat
+   cd ProConnect_WebRTC-online-meeting-platform
    ```
 
 2. **Install dependencies**
@@ -41,7 +41,7 @@ Follow these steps to install and set up the project:
 
    Create a `.env` file in the root directory:
    ```env
-   PORT=3000
+   PORT=5173
    NODE_ENV=development
    # For production, you'll need to add SSL certificate paths
    # SSL_CERT_PATH=/path/to/cert.pem
@@ -58,7 +58,7 @@ Follow these steps to install and set up the project:
    ```
 
 2. **Open in browser**
-   - Open two browser tabs/windows at `http://localhost:3000`
+   - Open two browser tabs/windows at `http://localhost:5173`
    - Allow camera and microphone permissions when prompted
    - Start video chatting between the two tabs
 
@@ -120,7 +120,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-Project Link: [https://github.com/yourusername/webrtc-video-chat](https://github.com/yourusername/webrtc-video-chat)
+Project Link: [https://github.com/yourusername/webrtc-video-chat](https://github.com/SatharakaNilmantha/ProConnect_WebRTC-online-meeting-platform.git)
 
 ## 🙏 Acknowledgments
 
