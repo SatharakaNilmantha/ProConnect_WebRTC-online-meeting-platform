@@ -118,7 +118,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Your Name - [@yourtwitter](https://gmail.com/satharakanilmantha1@gmail.com) - satharakanilmantha1@gmail.com
 
 Project Link: [https://github.com/SatharakaNilmantha/ProConnect_WebRTC-online-meeting-platform](https://github.com/SatharakaNilmantha/ProConnect_WebRTC-online-meeting-platform.git)
 
