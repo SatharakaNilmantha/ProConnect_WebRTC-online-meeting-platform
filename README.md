@@ -120,7 +120,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-Project Link: [https://github.com/yourusername/webrtc-video-chat](https://github.com/SatharakaNilmantha/ProConnect_WebRTC-online-meeting-platform.git)
+Project Link: [https://github.com/SatharakaNilmantha/ProConnect_WebRTC-online-meeting-platform](https://github.com/SatharakaNilmantha/ProConnect_WebRTC-online-meeting-platform.git)
 
 ## 🙏 Acknowledgments
 
