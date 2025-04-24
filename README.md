@@ -28,7 +28,7 @@ Follow these steps to install and set up the project:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/webrtc-video-chat.git
+   git clone https://github.com/SatharakaNilmantha/ProConnect_WebRTC-online-meeting-platform.git
    cd webrtc-video-chat
    ```
 
