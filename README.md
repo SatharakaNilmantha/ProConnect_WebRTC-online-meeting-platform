@@ -2,7 +2,10 @@
 
 ![logo-removebg](https://github.com/user-attachments/assets/f67e2da1-4fc7-4e17-b52b-5aac0dccad76)
 
-![WebRTC Logo](https://webrtc.org/assets/images/webrtc-logo-vert-retro-255x305.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f67e2da1-4fc7-4e17-b52b-5aac0dccad76" width="200" alt="Project Logo">
+</p>
+
 
 A real-time video chat application using WebRTC, Node.js, and Socket.io for signaling. This project enables peer-to-peer video communication directly in the browser.
 
