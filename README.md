@@ -1,9 +1,7 @@
-<p align="center"># 📡 WebRTC Online Meeting Platform</p>
-
-<p align="center">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/f67e2da1-4fc7-4e17-b52b-5aac0dccad76" width="200" alt="Project Logo">
-</p>
-
+  <h1 style="font-size: 2.5em; margin-top: 20px;">📡 WebRTC Online Meeting Platform</h1>
+</div>
 
 A real-time video chat application using WebRTC, Node.js, and Socket.io for signaling. This project enables peer-to-peer video communication directly in the browser.
 
