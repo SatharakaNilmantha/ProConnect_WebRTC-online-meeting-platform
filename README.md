@@ -99,8 +99,6 @@ ProConnect_WebRTC-online-meeting-platform/
 ├── package.json # Project metadata and dependencies
 ├── package-lock.json # Exact dependency tree
 └── README.md # Project documentation
-
-
 ```
 
 ### Other Platforms
