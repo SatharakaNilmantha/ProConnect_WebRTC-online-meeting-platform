@@ -133,7 +133,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Satharaka Nilmantha**  
 📫 Reach me at: satharakanilmantha1@gmail.com  
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/)
 ## 🙏 Acknowledgments
 
 - [WebRTC](https://webrtc.org/) for the amazing real-time communication technology
