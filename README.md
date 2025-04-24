@@ -14,6 +14,13 @@ A real-time video chat application using WebRTC, Node.js, and Socket.io for sign
 - 🔒 Secure connections (when deployed with HTTPS)
 - 📦 Simple setup and configuration
 
+## 🖥️ Screenshots
+
+| Meeting Lobby | Active Call | Mobile View |
+|--------------|------------|-------------|
+| <img src="https://placehold.co/600x400/2563eb/white?text=Meeting+Lobby" width="200"> | <img src="https://placehold.co/600x400/3b82f6/white?text=Active+Call" width="200"> | <img src="https://placehold.co/600x400/93c5fd/white?text=Mobile+View" width="200"> |
+
+
 ## 🛠️ Prerequisites
 
 Before you begin, ensure you have met the following requirements:
