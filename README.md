@@ -15,7 +15,7 @@ A real-time video chat application using WebRTC, Node.js, and Socket.io for sign
 - 📦 Simple setup and configuration
 
 ## 🖥️ Screenshots
-<img src="https://github.com/user-attachments/assets/710464dd-88c6-414a-902a-beaa62caba0b" width="950"> 
+<img src="https://github.com/user-attachments/assets/710464dd-88c6-414a-902a-beaa62caba0b"> 
 
 ## 🛠️ Prerequisites
 
