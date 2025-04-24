@@ -5,6 +5,8 @@
 
 A real-time video chat application using WebRTC, Node.js, and Socket.io for signaling. This project enables peer-to-peer video communication directly in the browser.
 
+---
+
 ## 🌟 Features
 
 - 🎥 Real-time video and audio communication
@@ -14,8 +16,12 @@ A real-time video chat application using WebRTC, Node.js, and Socket.io for sign
 - 🔒 Secure connections (when deployed with HTTPS)
 - 📦 Simple setup and configuration
 
+---
+
 ## 🖥️ Screenshots
 <img src="https://github.com/user-attachments/assets/710464dd-88c6-414a-902a-beaa62caba0b"> 
+
+---
 
 ## 🛠️ Prerequisites
 
@@ -25,6 +31,8 @@ Before you begin, ensure you have met the following requirements:
 - npm (usually comes with Node.js)
 - Modern web browser (Chrome, Firefox, Edge, Safari)
 - (Optional) SSL certificate for HTTPS (required for production)
+  
+---
 
 ## 🚀 Installation
 
@@ -51,6 +59,8 @@ Follow these steps to install and set up the project:
    # SSL_CERT_PATH=/path/to/cert.pem
    # SSL_KEY_PATH=/path/to/key.pem
    ```
+
+---
 
 ## � Running the Application
 
@@ -82,6 +92,8 @@ For production, you'll need HTTPS (WebRTC requires secure contexts):
 
 3. **Access via HTTPS**
    - Open your browser at `http://localhost:5173`
+     
+---
 
 ## 🧩 Project Structure
 
@@ -108,6 +120,8 @@ For other platforms (AWS, DigitalOcean, etc.), follow their Node.js deployment g
 - Set up HTTPS
 - Configure the correct port
 - Set `NODE_ENV=production`
+  
+---
 
 ## 🤝 Contributing
 
@@ -118,10 +132,14 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+   
+---
 
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+---
 
 ## 📧 Contact
 
@@ -140,6 +158,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Satharaka Nilmantha**  
 📫 Reach me at: satharakanilmantha1@gmail.com  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/)
+
+---
+
 ## 🙏 Acknowledgments
 
 - [WebRTC](https://webrtc.org/) for the amazing real-time communication technology
