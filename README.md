@@ -1,7 +1,5 @@
 # 📡 WebRTC Online Meeting Platform
 
-![logo-removebg](https://github.com/user-attachments/assets/f67e2da1-4fc7-4e17-b52b-5aac0dccad76)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f67e2da1-4fc7-4e17-b52b-5aac0dccad76" width="200" alt="Project Logo">
 </p>
