@@ -86,16 +86,21 @@ For production, you'll need HTTPS (WebRTC requires secure contexts):
 ## 🧩 Project Structure
 
 ```
-webrtc-video-chat/
-├── public/            # Client-side files
-│   ├── css/           # Stylesheets
-│   ├── js/            # JavaScript files
-│   └── index.html     # Main HTML file
-├── server/            # Server-side code
-│   └── server.js      # Main server file
-├── .env               # Environment variables
-├── package.json       # Project dependencies
-└── README.md          # This file
+ProConnect_WebRTC-online-meeting-platform/
+├── node_modules/ # All npm dependencies
+├── public/ # Static assets
+│ ├── img/ # Image resources
+│ │ └── logo.png # Application logo
+│ ├── index.html # Main HTML entry point
+│ └── style.css # Global styles
+│ └── app.js # Main frontend logic
+├── server/ # Backend server
+│ └── server.js # Express/Socket.io server
+├── package.json # Project metadata and dependencies
+├── package-lock.json # Exact dependency tree
+└── README.md # Project documentation
+
+
 ```
 
 ### Other Platforms
