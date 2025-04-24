@@ -126,7 +126,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
   <a href="https://www.linkedin.com/in/your-linkedin-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/SatharakaNilmantha/ProConnect_WebRTC-online-meeting-platform">
+  <a href="https://github.com/SatharakaNilmantha">
     <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Project">
   </a>
 </p>
