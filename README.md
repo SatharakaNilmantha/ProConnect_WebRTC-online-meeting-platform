@@ -1,5 +1,6 @@
-# 📡 WebRTC 0nline Meeting Platform
+# 📡 WebRTC Online Meeting Platform
 
+![logo-removebg](https://github.com/user-attachments/assets/f67e2da1-4fc7-4e17-b52b-5aac0dccad76)
 
 ![WebRTC Logo](https://webrtc.org/assets/images/webrtc-logo-vert-retro-255x305.png)
 
