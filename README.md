@@ -77,7 +77,7 @@ For production, you'll need HTTPS (WebRTC requires secure contexts):
    ```
 
 3. **Access via HTTPS**
-   - Open your browser at `https://yourdomain.com`
+   - Open your browser at `http://localhost:5173`
 
 ## 🧩 Project Structure
 
