@@ -164,4 +164,4 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-💡 **If you like this project, don't forget to give it a ⭐ on GitHub! 😊**
+***💡 If you like this project, don't forget to give it a ⭐ on GitHub! 😊***
